@@ -59,9 +59,8 @@ During my master's, I have built projects using Python and various machine learn
 <!-- RESUME -->
 ## Resume
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![CV Marleen][product-screenshot]](https://example.com)
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -80,7 +79,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marleenjung
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: CV_Marleen-1.png
 
 <!--
 **marleenkj/marleenkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
