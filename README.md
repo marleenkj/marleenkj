@@ -58,7 +58,9 @@
 <!-- ABOUT ME -->
 ## About Me
 
-My name is Marleen Jung, and I am a Data Analytics and Industrial Engineering student from Germany. I have a long-standing interest in the environment and I am eager to learn how to use big data to tackle climate challenges with cutting-edge data analytics; how to use python and machine learning techniques to tackle climate challenges.
+My name is Marleen Jung, and I am a Data Analytics and Industrial Engineering student from Germany. I have a long-standing interest in the environment and I am eager to learn how to use big data to tackle climate challenges with cutting-edge data analytics.
+
+- 🌱 I’m currently improving my skills in python using machine learning techniques 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -67,7 +69,10 @@ My name is Marleen Jung, and I am a Data Analytics and Industrial Engineering st
 
 During my master's, I have built projects using Python and various machine learning techniques. I have used GitHub to store and manage my code and it made it easier to collaborate. The repositories are private but I can provide a Gitfront access link for a selection of projects on request.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- RESUME -->
+## Resume
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -79,10 +84,9 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- CONTACT -->
 ## Contact
 
-- 📫 How to reach me: 
-Marleen Jung - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+- 📫 How to reach me: marleen-j@web.de
 
-GitHub Link: [https://github.com/marleenkj](https://github.com/marleenkj)
+- GitHub Link: [https://github.com/marleenkj](https://github.com/marleenkj)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
