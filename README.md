@@ -68,7 +68,7 @@ During my master's, I have built projects using Python and various machine learn
 <!-- RESUME -->
 ## Resume
 <details>
-  <summary>## Resume</summary>
+  Show Resume
   <ol>
     [![CV Marleen][product-screenshot]]
   </ol>
