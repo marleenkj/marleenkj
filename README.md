@@ -67,9 +67,7 @@ During my master's, I have built projects using Python and various machine learn
 
 <!-- RESUME -->
 ## Resume
-<details>
   [CV Marleen][product-screenshot]
-</details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
