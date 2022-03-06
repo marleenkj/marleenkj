@@ -34,8 +34,8 @@
   <ol>
     <li><a href="#about-me">About Me</a></li>
     <li><a href="#projects">Projects</a></li>
-    <li><a href="#resume">Resume</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#resume">Resume</a></li>
   </ol>
 </details>
 
@@ -56,21 +56,20 @@ During my master's, I have built projects using Python and various machine learn
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- RESUME -->
-## Resume
-
-[![CV Marleen][product-screenshot]](https://example.com)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
 - 📫 How to reach me: marleen-j@web.de
 
 - GitHub Link: [https://github.com/marleenkj](https://github.com/marleenkj)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- RESUME -->
+## Resume
+
+[![CV Marleen][product-screenshot]](https://example.com)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
